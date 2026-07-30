@@ -15,3 +15,10 @@ for char in example:
     if char_count[char]==1:
         print("First non repeating character:", char)
         break
+
+
+
+
+
+        
+    
